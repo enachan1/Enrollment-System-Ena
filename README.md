@@ -3,7 +3,7 @@
 This is an Enrollment System that we made when we are third year
 
 
-## People who contrubuted on this project
+## People who contributed on this project
 
 `Carlo De Leon`
 
